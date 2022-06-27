@@ -23,6 +23,7 @@ Exploratory Data Analysis on Twitter Data on Squid Game Tweets. Squid game s a S
 ## Screenshots
 
 ![](https://i.postimg.cc/gJGgTYX6/u.png)
+![](https://i.postimg.cc/s2Cy60YZ/yy.png)
 
 
 ## Badges
