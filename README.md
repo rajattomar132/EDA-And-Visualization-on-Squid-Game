@@ -1,17 +1,71 @@
-<br>
-<br>
-<h2 style = "font-family: garamond; font-size: 40px; font-style: normal; letter-spcaing: 3px; background-color:#1DA1F2 ; color :#FFFFFF; border-radius: 5px 5px; padding:10px;text-align:center; font-weight: bold">Exploratory Data Analysis And Visualization on Squid Game Tweets</h2> 
-<br> 
-<br>
-
-<div class="Column">
-  <div class="row">
-    <img src="https://i.postimg.cc/HxhJ902h/60f5172816321e9428ac1ede-twitter.gif" alt="Snow" style="width:100%">
-  </div>
+![Logo](https://i.postimg.cc/HxhJ902h/60f5172816321e9428ac1ede-twitter.gif)
 
 
+# EDA And Visualization on Squid Game Tweets
+
+Exploratory Data Analysis on Twitter Data on Squid Game Tweets. Squid game s a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix .
 
 
-# Introduction 
-Squid Game (Korean: 오징어 게임; RR: Ojing-eo Geim) is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix.Its cast includes Lee Jung-jae, Park Hae-soo, Wi Ha-joon, HoYeon Jung, O Yeong-su, Heo Sung-tae, Anupam Tripathi, and Kim Joo-ryoung .
-The series revolves around a contest where 456 players, all of whom are in deep financial debt, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion (US$38 million, €33 million, or GB£29 million as of broadcast) prize. The title of the series draws from a similarly named Korean children's game.
+## Acknowledgements
+
+ - [Know more information about Squid game](https://en.wikipedia.org/wiki/Squid_Game)
+ - [Dataset link ](https://www.kaggle.com/datasets/deepcontractor/squid-game-netflix-twitter-data)
+ 
+
+
+## Tech Stack
+
+**Python Libraries:** Numpy, Pandas, Matplotlib, wordcloud, TextBlob, sklearn 
+
+
+
+
+## Screenshots
+
+![](https://i.postimg.cc/gJGgTYX6/u.png)
+
+
+## Badges
+
+[![GitHub issues:](https://img.shields.io/github/issues/rajattomar132/EDA-And-Visualization-on-Squid-Game)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GitHub forks:](	https://img.shields.io/github/forks/rajattomar132/EDA-And-Visualization-on-Squid-Game)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GitHub stars:](https://img.shields.io/github/stars/rajattomar132/EDA-And-Visualization-on-Squid-Game)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Authors
+
+- [@rajattomar132 ](https://github.com/rajattomar132)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Support
+
+For support, email rajattomar132@gamil.com or join our Slack channel.
+
+
+## Related
+
+Here are some related projects
+
+[Awesome README](https://github.com/rajattomar132)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
