@@ -58,7 +58,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For support, email rajattomar132@gamil.com or join our Slack channel.
+For support, email rajattomar132@gamil.com or reach me out on linkedin .
 
 
 ## Related
